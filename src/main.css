@@ -3,9 +3,9 @@
     padding: 0;
     box-sizing: border-box;
     list-style: none;
-    font-family: Roboto, Helvetica, sans-serif;
+    font-family: Roboto, Helvetica, monospace;
 }
 
 body {
-    background-color: #eee;
+    background-color: #818080;
 }

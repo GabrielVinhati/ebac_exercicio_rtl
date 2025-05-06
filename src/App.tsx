@@ -5,8 +5,8 @@ import styles from './App.module.css';
 function App() {
   return (
     <div className={styles.app}>
-      <Post imageUrl="https://www.orangeboxminiaturas.com.br/img/products/batmovel-1989-figura-batman-em-metal-jada-toys-1-24-jad-98260_1_1000.jpg">
-        Olha só que legal minha miniatura do Batmóvel.
+      <Post imageUrl="https://http2.mlstatic.com/D_NQ_NP_603453-MLB70218419407_062023-O-jogo-de-xadrez-tabuleiro-medieval-bruxo-jogo-completo-resina.webp">
+        Olha só que legal meu novo tabuleiro de Xadrez do Harry Potter.
       </Post>
     </div>
   );
